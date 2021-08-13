@@ -1,3 +1,8 @@
+# react-template
+
+Template for docker+react
+
+
 Build the image and fire up the container:
 
 ``` 
