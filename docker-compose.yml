@@ -1,9 +1,8 @@
 version: '3.8'
 
 services:
-
   sample:
-    container_name: react-test
+    container_name: react-template
     build:
       context: .
       dockerfile: Dockerfile

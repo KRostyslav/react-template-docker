@@ -20,3 +20,5 @@ Fire up the container:
 ```
 $ docker-compose -f docker-compose.prod.yml up -d --build
 ```
+
+[20 основных частей любого крупномасштабного React-приложения](https://habr.com/ru/company/skillfactory/blog/544870/)
